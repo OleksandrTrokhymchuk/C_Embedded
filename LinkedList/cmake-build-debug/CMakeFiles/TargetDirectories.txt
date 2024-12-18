@@ -1,0 +1,3 @@
+C:/my_folder/study/sem5/GFKM/C_Emb17/LinkedList/cmake-build-debug/CMakeFiles/LinkedList.dir
+C:/my_folder/study/sem5/GFKM/C_Emb17/LinkedList/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/my_folder/study/sem5/GFKM/C_Emb17/LinkedList/cmake-build-debug/CMakeFiles/rebuild_cache.dir
